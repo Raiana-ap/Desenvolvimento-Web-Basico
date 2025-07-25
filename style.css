@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+header {
+    background-color: #0044cc; 
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border: 3px solid #ffcc00;
+}
+
+main {
+    background-color: #ffffff;
+    color: #222;
+    padding: 20px;
+    margin: 10px;
+    border: 2px dashed #ff0000; 
+}
+
+footer {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #0044cc;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    text-decoration: underline;
+    color: #0044cc;
+}
+
+.destaque {
+    font-style: italic;
+    background-color: rgba(255, 255, 0, 0.2);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#importante {
+    border-top: 5px solid #ff0000;
+    padding-top: 10px;
+}
