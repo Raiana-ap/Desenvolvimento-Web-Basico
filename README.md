@@ -6,7 +6,7 @@ Este repositório contém uma série de atividades práticas desenvolvidas para 
 
 ---
 
-## 📄 Atividades
+## Atividades
 
 ### 1. Estrutura Semântica com HTML5
 **Arquivo:** `index.html`
@@ -56,14 +56,14 @@ Este repositório contém uma série de atividades práticas desenvolvidas para 
 
 ---
 
-## ✅ Como visualizar
+## Como visualizar
 
 Abra os arquivos `.html` diretamente no navegador.  
 Para ver o menu responsivo, redimensione a janela ou abra no celular.
 
 ---
 
-## ✨ Autor
+## Autor ✨
 
 Raiana Arbusti Paludo  
 Atividades feitas como parte dos estudos de HTML e CSS.
